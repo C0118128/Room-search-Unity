@@ -13,8 +13,8 @@ ver.1.1
 * 番号型のアイテム(Unity object/script)
 * 画面上部にアイテム欄実装(Unity object/script)
 
-
 ## デモ
+近日中に動画公開
 
 ## バージョン詳細
 * ver.1.0: 各階の機能実装
