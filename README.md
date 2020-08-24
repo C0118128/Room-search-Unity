@@ -22,7 +22,7 @@ ver.1.1
 
 ## インストール方法
 `$ git clone https://github.com/C0118128/Room-search-Unity.git` </br>
-UnityHubに本プロジェクトを追加して、実行してください。。
+UnityHubに本プロジェクトを追加して、実行してください。
 
 ## 作者
 * Ryoto
